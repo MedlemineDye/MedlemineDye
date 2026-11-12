@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bonjour, je suis VOTRE_NOM
+# 👋 Bonjour, je suis MedLemineDye
 
 ### 🔬 Programmeur scientifique · 📐 Passionné de mathématiques pratiques
 
